@@ -41,5 +41,5 @@ This is a provisional timetable.
 |13:30 | TBD: Coffee and biscuits |
 |14:00 | Close |
 
-In order to get an idea of numbers for catering and to stay within the venue size please [register](https://www.eventbrite.co.uk/e/cerse-meeting-at-the-kings-buildings-tickets-91642157159). The aim is to establish a self sustaining Community Edinburgh Research Software Engineers (RSEs) who periodically come together to determine best practice, provide support for fellow RSEs in Edinburgh and wider afield. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
+In order to get an idea of numbers for catering and to stay within the venue size please register(TBD). The aim is to establish a self sustaining Community Edinburgh Research Software Engineers (RSEs) who periodically come together to determine best practice, provide support for fellow RSEs in Edinburgh and wider afield. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
 
