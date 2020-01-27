@@ -13,7 +13,7 @@ The primary goal of the Community of Edinburgh Research Software Engineers (CERS
 
 ##	Venue, Date, Time
 
-Cockburn Geological Museum, Grant Institute of Earth Sciences, James Hutton Rd, King's Buildings, Edinburgh EH9 3FE.
+Cockburn Geological Museum, Grant Institute of GeoSciences, James Hutton Rd, King's Buildings, Edinburgh EH9 3FE.
 
 ## Code of Conduct
 
