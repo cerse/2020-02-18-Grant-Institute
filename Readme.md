@@ -35,10 +35,10 @@ This is a provisional timetable.
 
 |Time  | Activity      | 
 |------| ------|
-|14:30 | Welcome - Sean McGeever |
+|14:30 | Welcome |
 |12:05 | Ice breaking session (opportunity to get to know your fellow attendees) |
 |12:40 | What are RSEs and Why are we doing this - Mario Antonioletti and Mike Wallis with discussion |
-|13:30 | Coffee and biscuits |
+|13:30 | TBD: Coffee and biscuits |
 |14:00 | Close |
 
 In order to get an idea of numbers for catering please register. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
