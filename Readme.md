@@ -37,7 +37,7 @@ This is a provisional timetable.
 |------| ------|
 |14:30 | Welcome |
 |12:05 | Ice breaking session (opportunity to get to know your fellow attendees) |
-|12:40 | What are RSEs and Why are we doing this - Mario Antonioletti and Mike Wallis with discussion |
+|12:40 | TBD |
 |13:30 | TBD: Coffee and biscuits |
 |14:00 | Close |
 
