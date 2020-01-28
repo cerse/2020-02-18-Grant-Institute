@@ -36,9 +36,9 @@ This is a provisional timetable.
 |Time  | Activity      | 
 |------| ------|
 |14:30 | Welcome |
-|14:35 | Ice breaking session (opportunity to get to know your fellow attendees) |
-|15:00 | TBD |
-|16:30 | TBD: Coffee and biscuits |
+|14:40 | Presentations  by  Mine Cetinkaya-Rundel, Mike Mineter, Edward Wallace, Douglas Finch |
+|15:40 | Q&A |
+|16:30 | Discussion: Coffee and biscuits |
 |17:00 | Close |
 
 In order to get an idea of numbers for catering and to stay within the venue size please [register](https://www.eventbrite.co.uk/e/cerse-meeting-at-kb-tickets-91748565429). The aim is to establish a self sustaining Community Edinburgh Research Software Engineers (RSEs) who periodically come together to determine best practice, provide support for fellow RSEs in Edinburgh and wider afield. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
