@@ -36,7 +36,7 @@ This is a provisional timetable.
 |Time  | Activity      | 
 |------| ------|
 |14:30 | Welcome |
-|14:40 | Presentations  by  Mine Cetinkaya-Rundel, Mike Mineter, Edward Wallace, Douglas Finch |
+|14:40 | Presentations  by  [Mine Cetinkaya-Rundel](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=727), [Mike Mineter](https://www.ed.ac.uk/geosciences/people?indv=38), [Edward Wallace](https://www.ed.ac.uk/profile/dr-edward-wallace) and [Douglas Finch](http://dougfinch.co.uk/aboutme.html). |
 |15:40 | Q&A |
 |16:30 | Discussion: Coffee and biscuits |
 |17:00 | Close |
