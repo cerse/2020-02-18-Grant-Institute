@@ -36,13 +36,11 @@ This is a provisional timetable.
 |Time  | Activity      | 
 |------| ------|
 |14:30 | Welcome |
-|14:40 | Presentations  by:
-<ul>
-<li> [Mike Mineter](https://www.ed.ac.uk/geosciences/people?indv=38) ([presentation](Slides/geosmeta_with_notes.pdf)), </li>
-<li> [Douglas Finch](http://dougfinch.co.uk/aboutme.html),</li>
-<li> [Mine Cetinkaya-Rundel](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=727) and</li>
-<li> [Edward Wallace](https://www.ed.ac.uk/profile/dr-edward-wallace) 
-</li></ul>|
+|14:40 | Presentations  by: [Mike Mineter](https://www.ed.ac.uk/geosciences/people?indv=38) ([presentation](Slides/geosmeta_with_notes.pdf)), 
+[Douglas Finch](http://dougfinch.co.uk/aboutme.html),
+ [Mine Cetinkaya-Rundel](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=727) and<
+[Edward Wallace](https://www.ed.ac.uk/profile/dr-edward-wallace) .
+|
 |15:40 | Q&A |
 |16:30 | Discussion: Coffee and biscuits |
 |17:00 | Close |
