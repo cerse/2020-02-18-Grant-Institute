@@ -43,3 +43,4 @@ This is a provisional timetable.
 
 In order to get an idea of numbers for catering and to stay within the venue size please [register](https://www.eventbrite.co.uk/e/cerse-meeting-at-kb-tickets-91748565429). The aim is to establish a self sustaining Community Edinburgh Research Software Engineers (RSEs) who periodically come together to determine best practice, provide support for fellow RSEs in Edinburgh and wider afield. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
 
+Please refer to the [accessibility statement](https://cerse.github.io/AccessibilityStatement.html) for this web site.
